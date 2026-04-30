@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BackendAPILorenSameh/BackendAPILorenSameh.csproj" />
+  <Project Path="BusinessLayer/BusinessLayer.csproj" Id="fcb0c4b0-2e6b-46e6-a0a2-73aa1784155c" />
+  <Project Path="DataLayer/DataLayer.csproj" Id="062f60a4-a927-4b2a-affe-d6af1bb815be" />
+</Solution>
